@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @AhmadAlmaalah
+- 👀 I’m interested in Mobile app development (Flutter developer)
+- 🌱 I’m currently learning flutter
+- 💞️ I’m looking to collaborate on Flutter projects and jobs 
+- 📫 How to reach me by mail (engmala7112004@gmail.com)
+- 😄 Pronouns: eng mala7
+- ⚡ Fun fact: your fav programmer 
